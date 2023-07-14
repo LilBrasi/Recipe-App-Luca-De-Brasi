@@ -1,4 +1,4 @@
-# Recipe-App-Luca-De-Brasi
+# Recipe App (EPICODE)
 <br>
 <br>
 Simple <b>MERN</b> App for ricipes.
